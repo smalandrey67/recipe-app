@@ -1,0 +1,87 @@
+@keyframes ldio-69eub6ofen3 {
+  0% { opacity: 1 }
+  100% { opacity: 0 }
+}
+.ldio-69eub6ofen3 div {
+  left: 101.99px;
+  top: 52.08px;
+  position: absolute;
+  animation: ldio-69eub6ofen3 linear 0.6711409395973155s infinite;
+  background: #b2b2b2;
+  width: 13.02px;
+  height: 26.04px;
+  border-radius: 6.51px / 13.02px;
+  transform-origin: 6.51px 56.42px;
+}.ldio-69eub6ofen3 div:nth-child(1) {
+  transform: rotate(0deg);
+  animation-delay: -0.6152125279642059s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(2) {
+  transform: rotate(30deg);
+  animation-delay: -0.5592841163310962s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(3) {
+  transform: rotate(60deg);
+  animation-delay: -0.5033557046979866s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(4) {
+  transform: rotate(90deg);
+  animation-delay: -0.447427293064877s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(5) {
+  transform: rotate(120deg);
+  animation-delay: -0.39149888143176736s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(6) {
+  transform: rotate(150deg);
+  animation-delay: -0.33557046979865773s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(7) {
+  transform: rotate(180deg);
+  animation-delay: -0.2796420581655481s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(8) {
+  transform: rotate(210deg);
+  animation-delay: -0.2237136465324385s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(9) {
+  transform: rotate(240deg);
+  animation-delay: -0.16778523489932887s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(10) {
+  transform: rotate(270deg);
+  animation-delay: -0.11185682326621925s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(11) {
+  transform: rotate(300deg);
+  animation-delay: -0.055928411633109625s;
+  background: #b2b2b2;
+}.ldio-69eub6ofen3 div:nth-child(12) {
+  transform: rotate(330deg);
+  animation-delay: 0s;
+  background: #b2b2b2;
+}
+.loadingio-spinner-spinner-wwdazreyaf8 {
+  width: 217px;
+  height: 217px;
+  /* width: 300px; */
+  /* height: 300px; */
+  display: inline-block;
+  overflow: hidden;
+  background: none;
+}
+.ldio-69eub6ofen3 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+ }
+.ldio-69eub6ofen3 div { box-sizing: content-box; }
+
+.spinner-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

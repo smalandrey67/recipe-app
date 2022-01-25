@@ -1,0 +1,10 @@
+.warning{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.warning-title{
+    text-align: center;
+    color: #F09819;
+    font-size: 30px;
+}
